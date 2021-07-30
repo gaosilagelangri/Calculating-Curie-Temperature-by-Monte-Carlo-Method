@@ -13,3 +13,7 @@ I use Monte Carlo Method to calculate and use the Open Source Programs [**MCSOLV
 
 Usually I start by editing all the parameters under Windows，then I exported the input file to run under Linux.
 
+The general interface of the program is as follows：
+
+<img width="200" alt="Fig1.png" src="https://github.com/Nick12-hub/Calculating-Curie-Temperature-by-Monte-Carlo-Method/blob/main/Fig1.png">
+
