@@ -17,3 +17,17 @@ The general interface of the program is as follows：
 
 <img width="500" alt="Fig1.png" src="https://github.com/Nick12-hub/Calculating-Curie-Temperature-by-Monte-Carlo-Method/blob/main/Fig1.png">
 
+Now I explain all parameters one by one.
+
+## Lattice
+
+In general，a1(1.0 0.0 0.0),a2(-0.5 0.866 0.0),a3(0.0 0.0 1.0),SC(SuperCell) depends on whatever you want to choose,it maybe takes dozens of differences.
+
+## Orbital List
+
+ID is beginning at 0 and you need to write out the positions of all unequal atoms in the smallest cell.Spin depends on your system（This parameter is simple to determine but error-prone）.If you consider **D**, you need to fill in the parameters for the z-direction. Maybe it has a small effect, but you need to test it.
+You can use this formula to estimate:
+
+$$
+D=\frac{E_{\mathrm{FM}}^{\beta}-E_{\mathrm{FM}}^{z}}{4 S^{2}}
+$$
