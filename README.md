@@ -15,5 +15,5 @@ Usually I start by editing all the parameters under Windows，then I exported th
 
 The general interface of the program is as follows：
 
-<img width="300" alt="Fig1.png" src="https://github.com/Nick12-hub/Calculating-Curie-Temperature-by-Monte-Carlo-Method/blob/main/Fig1.png">
+<img width="500" alt="Fig1.png" src="https://github.com/Nick12-hub/Calculating-Curie-Temperature-by-Monte-Carlo-Method/blob/main/Fig1.png">
 
