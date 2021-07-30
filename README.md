@@ -37,6 +37,10 @@ $D=\frac{E_{\mathrm{FM}}^{\beta}-E_{\mathrm{FM}}^{z}}{4 S^{2}}$
 
 ## Bond List
 
+This is the most important and difficult step.It's actually not easy to understand quickly at first.
+
+### J
+
 
 
 
