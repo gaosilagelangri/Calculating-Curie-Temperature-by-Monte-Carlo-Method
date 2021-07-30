@@ -21,7 +21,10 @@ Now I explain all parameters one by one.
 
 ## Lattice
 
-In general，a1(1.0 0.0 0.0),a2(-0.5 0.866 0.0),a3(0.0 0.0 1.0),SC(SuperCell) depends on whatever you want to choose,it maybe takes dozens of differences.
+In general，a1(1.0 0.0 0.0),a2(-0.5 0.866 0.0),a3(0.0 0.0 1.0).
+### SC(SuperCell) 
+
+It depends on whatever you want to choose,it maybe takes dozens of differences.
 
 ## Orbital List
 
