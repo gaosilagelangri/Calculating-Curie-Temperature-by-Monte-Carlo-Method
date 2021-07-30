@@ -28,4 +28,17 @@ In general，a1(1.0 0.0 0.0),a2(-0.5 0.866 0.0),a3(0.0 0.0 1.0),SC(SuperCell) de
 ID is beginning at 0 and you need to write out the positions of all unequal atoms in the smallest cell.Spin depends on your system（This parameter is simple to determine but error-prone）.If you consider **D**, you need to fill in the parameters for the z-direction. Maybe it has a small effect, but you need to test it.
 You can use this formula to estimate:
 
-$$D=\frac{E_{\mathrm{FM}}^{\beta}-E_{\mathrm{FM}}^{z}}{4 S^{2}}$$
+$D=\frac{E_{\mathrm{FM}}^{\beta}-E_{\mathrm{FM}}^{z}}{4 S^{2}}$
+
+
+<head>
+    <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+    <script type="text/x-mathjax-config">
+        MathJax.Hub.Config({
+            tex2jax: {
+            skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+            inlineMath: [['$','$']]
+            }
+        });
+    </script>
+</head>
